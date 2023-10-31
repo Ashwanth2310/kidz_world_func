@@ -1,1 +1,1 @@
-# kidz_world_func
+# kidz-world-html-boilerplate
